@@ -1,0 +1,20 @@
+{
+  "name": "node-red-contrib-rdl-api-maker-cta",
+  "version": "1.0.0",
+  "description": "RDL API Maker CTA - build payload OEE object from counter input",
+  "keywords": [
+    "node-red",
+    "rdl",
+    "api",
+    "oee",
+    "cta"
+  ],
+  "license": "MIT",
+  "author": "Ragdalion",
+  "main": "RDL-API-maker-cta.js",
+  "node-red": {
+    "nodes": {
+      "rdl-api-maker-cta": "RDL-API-maker-cta.js"
+    }
+  }
+}
